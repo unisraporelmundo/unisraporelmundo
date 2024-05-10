@@ -1,6 +1,6 @@
 <!-- Personal profile banner-->
 <h1 align="center">
-    <img src="/unisraporelmundo/banner1.png" alt="Profile banner"/>
+    <img src="/unisraporelmundo/banner2.png" alt="Profile banner"/>
 </h1>
 
 <!--
