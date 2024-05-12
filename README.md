@@ -4,7 +4,7 @@
 </h1>
 
 
-# ¡Quien soy!
+## ¿Quién soy?
 
 ¡Hola! Mi nombre es Israel Izquierdo y estoy en un emocionante camino de transición de carrera hacia el sector IT. Con 36 años, he decidido dar un giro significativo a mi trayectoria profesional, y aquí te cuento un poco sobre mi viaje y hacia dónde voy.
 
