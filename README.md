@@ -3,9 +3,9 @@
     <img src="/unisraporelmundo/banner4.png" alt="Profile banner"/>
 </h1>
 
-# Presentación Profesional
+# ¡Quien soy!
 
-¡Hola! Mi nombre es Israel Izquierdo y estoy en un emocionante camino de transición de carrera hacia el sector de la tecnología. Con 36 años, he decidido dar un giro significativo a mi trayectoria profesional, y aquí te cuento un poco sobre mi viaje y hacia dónde voy.
+¡Hola! Mi nombre es Israel Izquierdo y estoy en un emocionante camino de transición de carrera hacia el sector IT. Con 36 años, he decidido dar un giro significativo a mi trayectoria profesional, y aquí te cuento un poco sobre mi viaje y hacia dónde voy.
 
 ## 🍴 Mi Trayectoria en Hostelería
 
