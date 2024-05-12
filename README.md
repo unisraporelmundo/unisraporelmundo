@@ -29,7 +29,7 @@ Mi objetivo es combinar mi experiencia en gestión y liderazgo con las nuevas ha
 
 ## 📫 Cómo Conectarse Conmigo
 
-Si estás interesado en saber más sobre mi transición de carrera, mis proyectos o simplemente quieres conectar, no dudes en contactarme:
+Si estás interesad@ en saber más sobre mi transición de carrera, mis proyectos o simplemente quieres conectar, no dudes en contactarme:
 
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/IsraelIzquierdo)
 - **Correo Electrónico:** [israelizquierdogarcia@gmail.com](mailto:israelizquierdogarcia.com)
