@@ -1,6 +1,8 @@
 <h1 align="center">
     <img src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/Banneroficial.gif" alt="Banner de perfil"/>
-</h1>## 🙋🏼‍♂️ Sobre Mí
+</h1>
+
+🙋🏼‍♂️ Sobre Mí
 
 ¡Hola! Soy Israel Izquierdo y actualmente me encuentro en un fascinante proceso de transición hacia el sector IT. A mis 36 años, he optado por redirigir mi carrera profesional y quiero compartirte un poco acerca de mi trayectoria y mis objetivos futuros.
 
@@ -31,19 +33,10 @@ Si deseas conocer más sobre mi transición de carrera o mis proyectos, o simple
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/IsraelIzquierdo)
 - **Correo Electrónico:** [israelizquierdogarcia@gmail.com](mailto:israelizquierdogarcia.com)
 
----
-
-### English Version:
----
-
-## 🙋🏼‍♂️ About Me
+ 
+ 🙋🏼‍♂️ About Me
 
 Hello! My name is Israel Izquierdo, and I am currently on an exciting path transitioning into the IT sector. At 36, I have decided to pivot my career, and here I'd like to share a bit about my journey and where I'm headed.
-
-<!-- Personal profile banner-->
-<h1 align="center">
-    <img src="/unisraporelmundo/banner8.gif" alt="Profile Banner"/>
-</h1>
 
 ## 🍴 Professional Background
 
