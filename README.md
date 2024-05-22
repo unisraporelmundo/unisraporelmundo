@@ -57,9 +57,7 @@ At 42 Telefónica, I am developing skills in programming and systems, working on
 
 ## 🎯 Future Goals
 
-My goal is to merge my management experience with the new technical skills I
-
- am acquiring to become a leader in the technology sector. I am particularly interested in roles that enhance operational efficiency and effectiveness through innovative technological solutions.
+My goal is to merge my management experience with the new technical skills ,Im am acquiring to become a leader in the technology sector. I am particularly interested in roles that enhance operational efficiency and effectiveness through innovative technological solutions.
 
 ## 📩 Connect with Me
 
