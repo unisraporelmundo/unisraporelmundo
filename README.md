@@ -1,58 +1,79 @@
-<!-- Personal profile banner-->
 <h1 align="center">
-    <img src="/unisraporelmundo/banner7.gif" alt="Profile banner"/>
-</h1>
+    <img src="https://github.com/unisraporelmundo/unisraporelmundo/blob/main/unisraporelmundo/Banneroficial.gif" alt="Banner de perfil"/>
+</h1>## 🙋🏼‍♂️ Sobre Mí
 
+¡Hola! Soy Israel Izquierdo y actualmente me encuentro en un fascinante proceso de transición hacia el sector IT. A mis 36 años, he optado por redirigir mi carrera profesional y quiero compartirte un poco acerca de mi trayectoria y mis objetivos futuros.
 
-## 🙋🏼‍♂️¿Quién soy?
+## 🍴 Trayectoria Profesional
 
-¡Hola! Mi nombre es Israel Izquierdo y estoy en un emocionante camino de transición de carrera hacia el sector IT. Con 36 años, he decidido dar un giro significativo a mi trayectoria profesional, y aquí te cuento un poco sobre mi viaje y hacia dónde voy.
+Comencé mi carrera en la restauración y hostelería, escalando desde posiciones iniciales hasta llegar a ser Jefe de Sala. En ese puesto, lideré equipos de hasta 18 camareros y fui responsable de la operación diaria del establecimiento, la satisfacción del cliente y la gestión de personal. Esta experiencia me permitió desarrollar competencias esenciales en gestión, liderazgo y resolución de problemas en entornos exigentes.
 
-<!-- Personal profile banner-->
-<h1 align="center">
-    <img src="/unisraporelmundo/banner8.gif" alt="Profile banner"/>
-</h1>
+## 💻 Mi Paso al Mundo IT
 
-## 🍴 Mi Trayectoria 
+Mi interés por la tecnología y la informática me llevó a reinventarme profesionalmente. Recientemente, comencé a formarme en **42 Telefónica**, una escuela de programación pionera con un enfoque en el aprendizaje entre pares y proyectos prácticos.
 
-Mi carrera profesional comenzó en el mundo de la restauración y la hostelería, donde trabajé desde los niveles más básicos hasta alcanzar la posición de Jefe de Sala. En este rol, manejé equipos de hasta 18 camareros, supervisando la operación diaria del restaurante, la satisfacción del cliente y la gestión del personal. Esta experiencia ha sido fundamental para desarrollar habilidades clave en gestión, liderazgo y resolución de problemas en ambientes de alta presión.
+### 👨🏼‍💻 Pasión por la Tecnología
 
-## 💻 Transición al Mundo IT
+La tecnología me fascina por su capacidad de resolver problemas complejos y revolucionar nuestro estilo de vida y trabajo. La oportunidad de crear e innovar con tan solo un ordenador y mi creatividad me motiva profundamente.
 
-Aunque siempre tuve un gran interés en el mundo de la tecnología y la informática, no había encontrado la oportunidad de explorar esta pasión hasta recientemente. Motivado por mi curiosidad y el deseo de enfrentar nuevos desafíos, he comenzado a reciclarme profesionalmente como estudiante en **42 Telefónica**, una innovadora escuela de programación que se basa en el aprendizaje peer-to-peer y proyectos prácticos.
+### 4️⃣2️⃣ Experiencia en 42 Telefónica
 
-### 👨🏼‍💻 ¿Por qué Tecnología?
+En 42 Telefónica, estoy adquiriendo competencias en programación y sistemas, participando en proyectos que varían desde desarrollo de software hasta inteligencia artificial y ciberseguridad. Este entorno desafiante y colaborativo está acelerando mi aprendizaje y preparándome para una carrera exitosa en tecnología.
 
-La tecnología siempre ha sido un área de fascinación para mí, especialmente por su capacidad para resolver problemas complejos y transformar la manera en que vivimos y trabajamos. La posibilidad de crear y innovar usando solo un ordenador y mi creatividad es algo que me parece tremendamente poderoso y gratificante.
+## 🎯 Objetivos Futuros
 
-### 4️⃣2️⃣ Mi Experiencia en 42 Telefónica
+Aspiro a fusionar mi experiencia en gestión con mis nuevas habilidades técnicas para liderar en el ámbito tecnológico. Me interesa especialmente ocupar roles que permitan optimizar operaciones mediante soluciones tecnológicas innovadoras.
 
-En 42 Telefónica, estoy desarrollando habilidades en programación y sistemas, trabajando en una variedad de proyectos que abarcan desde el desarrollo de software básico hasta conceptos más avanzados en inteligencia artificial y ciberseguridad. Este ambiente desafiante y colaborativo es el lugar perfecto para acelerar mi aprendizaje y prepararme para una carrera en tecnología.
+## 📩 Contáctame
 
-## 🎯 Mis Objetivos
-
-Mi objetivo es combinar mi experiencia en gestión y liderazgo con las nuevas habilidades técnicas que estoy adquiriendo para convertirme en un líder en el sector tecnológico. Estoy particularmente interesado en roles que me permitan mejorar la eficiencia y la efectividad de las operaciones a través de soluciones tecnológicas innovadoras.
-
-## 📩 Cómo Conectarse Conmigo
-
-Si estás interesad@ en saber más sobre mi transición de carrera, mis proyectos o simplemente quieres conectar, no dudes en contactarme:
+Si deseas conocer más sobre mi transición de carrera o mis proyectos, o simplemente deseas conectar, no dudes en contactarme:
 
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/IsraelIzquierdo)
 - **Correo Electrónico:** [israelizquierdogarcia@gmail.com](mailto:israelizquierdogarcia.com)
 
 ---
 
-<!--
-**unisraporelmundo/unisraporelmundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### English Version:
+---
 
-Here are some ideas to get you started:
+## 🙋🏼‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! My name is Israel Izquierdo, and I am currently on an exciting path transitioning into the IT sector. At 36, I have decided to pivot my career, and here I'd like to share a bit about my journey and where I'm headed.
+
+<!-- Personal profile banner-->
+<h1 align="center">
+    <img src="/unisraporelmundo/banner8.gif" alt="Profile Banner"/>
+</h1>
+
+## 🍴 Professional Background
+
+I started my career in the hospitality industry, working my way up from entry-level positions to Head of Service. In this role, I led teams of up to 18 servers, overseeing daily operations, customer satisfaction, and staff management. This experience was crucial in honing skills in management, leadership, and problem-solving in high-pressure environments.
+
+## 💻 Transition to IT
+
+With a longstanding interest in technology and computing, I recently began retraining at **42 Telefónica**, an innovative coding school that emphasizes peer-to-peer learning and practical projects.
+
+### 👨🏼‍💻 Why Technology?
+
+Technology has always fascinated me for its ability to solve complex problems and transform how we live and work. The chance to create and innovate using just a computer and my creativity is immensely powerful and rewarding.
+
+### 4️⃣2️⃣ My Experience at 42 Telefónica
+
+At 42 Telefónica, I am developing skills in programming and systems, working on projects ranging from basic software development to advanced concepts in artificial intelligence and cybersecurity. This challenging and collaborative environment is the perfect place to accelerate my learning and prepare for a career in technology.
+
+## 🎯 Future Goals
+
+My goal is to merge my management experience with the new technical skills I
+
+ am acquiring to become a leader in the technology sector. I am particularly interested in roles that enhance operational efficiency and effectiveness through innovative technological solutions.
+
+## 📩 Connect with Me
+
+If you're interested in learning more about my career transition, my projects, or just want to connect, feel free to contact me:
+
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/IsraelIzquierdo)
+- **Email:** [israelizquierdogarcia@gmail.com](mailto:israelizquierdogarcia.com)
+
+---
+
+Estos textos modernizados reflejan un perfil profesional y adaptado al mundo actual. ¡Espero que cumplan con tus expectativas!
