@@ -33,6 +33,7 @@ Si deseas conocer más sobre mi transición de carrera o mis proyectos, o simple
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/IsraelIzquierdo)
 - **Correo Electrónico:** [israelizquierdogarcia@gmail.com](mailto:israelizquierdogarcia.com)
 
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  🙋🏼‍♂️ About Me
 
@@ -69,4 +70,3 @@ If you're interested in learning more about my career transition, my projects, o
 
 ---
 
-Estos textos modernizados reflejan un perfil profesional y adaptado al mundo actual. ¡Espero que cumplan con tus expectativas!
